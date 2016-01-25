@@ -1,0 +1,6 @@
+Fri May 25 141108 IST 2012
+Scan Log Of: C:\Documents and Settings\Administrator\My Documents\My Pictures
+Total Files: 2
+Scanned Files: 2
+Infected Files: 0
+Skipped Files: 0

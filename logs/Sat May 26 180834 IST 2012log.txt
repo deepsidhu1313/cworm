@@ -1,0 +1,4 @@
+Sat May 26 180834 IST 2012
+Scan Log Of: null
+Infected File List:
+C:\bsnl evdo\EVDO V3.5.7\Autorun.inf File is InfectedC:\WINDOWS\ServicePackFiles\i386\rundll32.exe File is InfectedC:\WINDOWS\ServicePackFiles\i386\svchost.exe File is InfectedC:\WINDOWS\SoftwareDistribution\Download\9866fb57abdc0ea2f5d4e132d055ba4e\rundll32.exe File is InfectedC:\WINDOWS\SoftwareDistribution\Download\9866fb57abdc0ea2f5d4e132d055ba4e\svchost.exe File is InfectedC:\WINDOWS\system32\rundll32.exe File is InfectedC:\WINDOWS\system32\svchost.exe File is Infected

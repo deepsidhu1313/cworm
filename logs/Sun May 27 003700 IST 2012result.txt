@@ -1,0 +1,6 @@
+Sun May 27 003700 IST 2012
+Scan Log Of: null
+Total Files: 93305
+Scanned Files: 93303
+Infected Files: 18
+Skipped Files: 2

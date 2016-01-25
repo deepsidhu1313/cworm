@@ -1,0 +1,6 @@
+Sat May 26 172802 IST 2012
+Scan Log Of: D:\
+Total Files: 7218
+Scanned Files: 7218
+Infected Files: 0
+Skipped Files: 0
