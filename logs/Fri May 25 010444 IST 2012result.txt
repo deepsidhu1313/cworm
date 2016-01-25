@@ -1,6 +1,0 @@
-Fri May 25 010444 IST 2012
-Scan Log Of: C:\Documents and Settings\Administrator\My Documents\My Music
-Total Files: 291
-Scanned Files: 291
-Infected Files: 0
-Skipped Files: 0
