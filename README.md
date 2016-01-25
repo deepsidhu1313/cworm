@@ -1,4 +1,4 @@
 # cworm
 Java Project 
 
-Just Experimenal Code, when started learning JAVA.
+Just Experimental Code, when started learning JAVA.
